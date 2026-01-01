@@ -1,0 +1,21 @@
+{
+  "name": "BestCare",
+  "short_name": "BestCare",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "BestCare – O‘zbekistonda zamonaviy mahsulotlar va xizmatlar.",
+  "icons": [
+    {
+      "src": "/bestCare.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/bestCare.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
